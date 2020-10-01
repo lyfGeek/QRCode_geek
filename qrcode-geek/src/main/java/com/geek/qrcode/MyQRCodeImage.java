@@ -26,4 +26,5 @@ public class MyQRCodeImage implements QRCodeImage {
     public int getPixel(int i, int i1) {
         return bufferedImage.getRGB(i, i1);
     }
+
 }

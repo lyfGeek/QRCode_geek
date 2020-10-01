@@ -22,4 +22,5 @@ public class ReadQRCode {
         System.out.println("result = " + result);
         // result = https://me.csdn.net/lyfGeek
     }
+
 }

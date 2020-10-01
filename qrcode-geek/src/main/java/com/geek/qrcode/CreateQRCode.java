@@ -50,4 +50,5 @@ public class CreateQRCode {
 
         ImageIO.write(bufferedImage, "png", new File("./qrcode.png"));
     }
+
 }
