@@ -59,4 +59,5 @@ public class ReadQRCode {
             e.printStackTrace();
         }
     }
+
 }

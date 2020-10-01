@@ -14,7 +14,7 @@ import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
 
-public class createQRCode {
+public class CreateQRCode {
 
     public static void main(String[] args) {
         int width = 300;
@@ -41,4 +41,5 @@ public class createQRCode {
             e.printStackTrace();
         }
     }
+
 }
